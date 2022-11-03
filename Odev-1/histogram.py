@@ -1,3 +1,6 @@
+#OZAN CAKAR
+#02205076045
+
 from PIL import Image
 import matplotlib.pyplot as plt
 
